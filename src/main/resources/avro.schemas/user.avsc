@@ -4,9 +4,6 @@
   "namespace": "io.conduktor.demos.kafka.avro",
   "fields": [
     {"name": "name", "type": "string"},
-    {"name": "age",  "type": "int"}
-
-  ]
-
+    {"name": "age",  "type": "int"} ]
 }
 

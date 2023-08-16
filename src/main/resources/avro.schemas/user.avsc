@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "User",
+  "namespace": "io.conduktor.demos.kafka.avro",
+  "fields": [
+    {"name": "name", "type": "string"},
+    {"name": "age",  "type": "int"}
+  ]
+
+}
+
